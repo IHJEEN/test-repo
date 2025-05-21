@@ -1,2 +1,6 @@
 B
+<<<<<<< HEAD
 This is written ini GitHub.
+=======
+This is written ini GitHub.
+>>>>>>> origin/main
